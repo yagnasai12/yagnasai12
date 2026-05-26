@@ -1,16 +1,25 @@
 ## Hi there 👋
+I'm Yazna Sai, Student at Shri Vishnu Engineering College for Women.  
 
-<!--
-**yagnasai12/yagnasai12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Passionate about AI, Web Development, and Problem Solving.  
 
-Here are some ideas to get you started:
+I enjoy building real-world and interactive tech projects.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Worked on projects in Machine Learning, Computer Vision, and Full Stack Development. 
+
+Currently learning new technologies and improving my development skills.
+## 🛠️ Skills
+- Python
+- Java
+- HTML, CSS, JavaScript
+- SQL
+- Machine Learning
+
+## 📌 Projects
+- AI Resume Analyzer
+- Student Management System
+- Loan Prediction System
+- Badminton Match Analytics System
+
+## 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/yazna-sai-2154392a0
